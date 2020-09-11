@@ -60,7 +60,7 @@ const init = async () => {
                                         enableAutomaticPunctuation: false,
                                         encoding: "LINEAR16",
                                         sampleRateHertz: 41000,
-                                        languageCode: "en-US",
+                                        languageCode: "id-ID",
                                         model: "default"
                                     }
             
